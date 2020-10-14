@@ -5,7 +5,7 @@ Wanderer & coffee addicted software engineer ☕
 
 📫 To get in touch head over to my personal website ➡️ https://samkk.dev
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samoculus&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samoculus&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **samoculus/samoculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
