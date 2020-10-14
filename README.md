@@ -1,4 +1,4 @@
-### Hi there! I'm Samed. 🌌
+### Hi! I'm Samed. 🌌
 Wanderer & coffee addicted software engineer ☕
 
 🛰️ I’m currently working on a data driven fintech startup. More info coming soon!
