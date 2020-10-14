@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! I'm Samed. 🌌
+Wanderer & coffee addicted software engineer! ☕
 
 <!--
 **samoculus/samoculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
