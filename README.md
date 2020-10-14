@@ -1,7 +1,7 @@
 ### Hi there! I'm Samed. 🌌
-Wanderer & coffee addicted software engineer! ☕
+Wanderer & coffee addicted software engineer ☕
 
-🔭 I’m currently working on a data driven fintech startup.
+🛰️ I’m currently working on a data driven fintech startup. More info coming soon!
 
 📫 To get in touch head over my personal website ➡️ https://samkk.dev
 
