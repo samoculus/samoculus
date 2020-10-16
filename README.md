@@ -3,7 +3,7 @@ Wanderer & coffee addicted software engineer ☕
 
 🛰️ I’m currently working on a data driven fintech startup. More info coming soon!
 
-📫 To get in touch head over to my personal 🌐[website](https://samkk.dev)
+📫 To get in touch head over to my personal 🌐 [website](https://samkk.dev)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samoculus&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
