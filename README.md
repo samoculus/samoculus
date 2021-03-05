@@ -1,7 +1,7 @@
 ### Hi! I'm Samed. 🌌
 Wanderer & coffee addicted software engineer ☕
 
-🛰️ I’m currently working on a data driven fintech startup. More info coming soon!
+🛰️ Software Engineer @ [website](https://twitter.com/projectdestroyer)
 
 📫 To get in touch head over to my personal 🌐[website](https://samkk.dev)
 
