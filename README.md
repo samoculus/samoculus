@@ -1,5 +1,5 @@
 ### Hi! I'm Samed. 🌌
-Wanderer & coffee addicted software engineer ☕
+Wanderer & coffee addicted developer ☕
 
 🛰️ Software Engineer @ [Project Destroyer](https://twitter.com/destroyerbots)
 
