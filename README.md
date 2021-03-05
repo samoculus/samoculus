@@ -1,7 +1,7 @@
 ### Hi! I'm Samed. 🌌
 Wanderer & coffee addicted software engineer ☕
 
-🛰️ Software Engineer @ [Project Destroyer](https://twitter.com/projectdestroyer)
+🛰️ Software Engineer @ [Project Destroyer](https://twitter.com/destroyerbots)
 
 📫 To get in touch head over to my personal 🌐[website](https://samkk.dev)
 
