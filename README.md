@@ -1,10 +1,6 @@
 ### Hi! I'm Samed. 🌌
 Wanderer & coffee addicted developer ☕
 
-🛰️ Software Engineer @ [Project Destroyer](https://twitter.com/destroyerbots)
-
-📫 To get in touch head over to my personal 🌐 [website](https://samkk.dev)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samoculus&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
